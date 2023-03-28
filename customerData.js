@@ -29,4 +29,7 @@ export const cards = [
   },
 ];
 
-export let transactions = [];
+export let transactions = [
+
+  
+];
